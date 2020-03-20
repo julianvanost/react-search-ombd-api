@@ -1,7 +1,7 @@
 {
   "name": "react-search-ombd-api",
   "version": "0.1.0",
-  "homepage": "http://julianvanost.github.io/react-gh-pages",
+  "homepage": "http://julianvanost/react-search-ombd-api",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
